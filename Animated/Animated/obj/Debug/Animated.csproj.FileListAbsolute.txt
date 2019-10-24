@@ -1,0 +1,9 @@
+C:\Users\Hector\source\repos\Animated\Animated\bin\Debug\Animated.exe.config
+C:\Users\Hector\source\repos\Animated\Animated\bin\Debug\Animated.exe
+C:\Users\Hector\source\repos\Animated\Animated\bin\Debug\Animated.pdb
+C:\Users\Hector\source\repos\Animated\Animated\obj\Debug\Animated.csprojAssemblyReference.cache
+C:\Users\Hector\source\repos\Animated\Animated\obj\Debug\Animated.Form1.resources
+C:\Users\Hector\source\repos\Animated\Animated\obj\Debug\Animated.Properties.Resources.resources
+C:\Users\Hector\source\repos\Animated\Animated\obj\Debug\Animated.csproj.GenerateResource.cache
+C:\Users\Hector\source\repos\Animated\Animated\obj\Debug\Animated.exe
+C:\Users\Hector\source\repos\Animated\Animated\obj\Debug\Animated.pdb
